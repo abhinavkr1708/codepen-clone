@@ -1,7 +1,7 @@
 {
   "name": "codepen-clone",
   "version": "0.1.0",
-  "homepage": "https://abhinavkr1708.github.io/codechecker",
+  "homepage": "https://abhinavkr1708.github.io/codepen-clone",
   "private": true,
   "dependencies": {
     "@material-ui/core": "4.12.3",
