@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/codechecker/static/css/main.07d7ac60.css",
-    "main.js": "/codechecker/static/js/main.cda99904.js",
-    "index.html": "/codechecker/index.html",
-    "main.07d7ac60.css.map": "/codechecker/static/css/main.07d7ac60.css.map",
-    "main.cda99904.js.map": "/codechecker/static/js/main.cda99904.js.map"
+    "main.css": "/codepen-clone/static/css/main.07d7ac60.css",
+    "main.js": "/codepen-clone/static/js/main.cda99904.js",
+    "index.html": "/codepen-clone/index.html",
+    "main.07d7ac60.css.map": "/codepen-clone/static/css/main.07d7ac60.css.map",
+    "main.cda99904.js.map": "/codepen-clone/static/js/main.cda99904.js.map"
   },
   "entrypoints": [
     "static/css/main.07d7ac60.css",
